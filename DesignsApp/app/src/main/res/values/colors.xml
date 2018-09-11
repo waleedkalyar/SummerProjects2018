@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#faac24</color>
+    <color name="colorPrimaryDark">#f9750a</color>
+    <color name="colorAccent">#faac24</color>
+
+    <color name="sweet_radish">#f9750a</color>
+    <color name="your_background_color">#3858e7</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149708314156",
+    "firebase_url": "https://chatappv3-60341.firebaseio.com",
+    "project_id": "chatappv3-60341",
+    "storage_bucket": "chatappv3-60341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149708314156:android:f84fc68bdde8fd0b",
+        "android_client_info": {
+          "package_name": "com.example.waleed.chatappv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149708314156-k4bst0ofur90ujk6fmu7pfh1fp6it359.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waleed.chatappv3",
+            "certificate_hash": "d77171966741633c8b909cee4089a198111f6444"
+          }
+        },
+        {
+          "client_id": "149708314156-8okemrdsjqpmj8262qtck5lq0cq5ub9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wV1OLcHFGI7QI6UYEvtis1sw_PdUiB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149708314156-8okemrdsjqpmj8262qtck5lq0cq5ub9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#faac24</color>
+    <color name="colorPrimaryDark">#f9750a</color>
+    <color name="colorAccent">#faac24</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="beauty_color">#a7f287</color>
+
+    <color name="bg_conversation">#dcc99aff</color>
+
+    <color name="red">#FF00</color>
+    <color name="colorTitle">#ffffff</color>
+    <color name="text_color_icon">#212121</color>
+</resources>

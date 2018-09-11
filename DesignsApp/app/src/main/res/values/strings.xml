@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DesignsApp</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+</resources>

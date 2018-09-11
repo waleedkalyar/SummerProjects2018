@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "291599818262",
+    "firebase_url": "https://friendschat-8b293.firebaseio.com",
+    "project_id": "friendschat-8b293",
+    "storage_bucket": "friendschat-8b293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291599818262:android:a263b29d2869ee38",
+        "android_client_info": {
+          "package_name": "com.example.waleed.chatappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291599818262-u75mg42qhb5s3mlr0b4qlcgm4anf3ua8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waleed.chatappv2",
+            "certificate_hash": "d77171966741633c8b909cee4089a198111f6444"
+          }
+        },
+        {
+          "client_id": "291599818262-6o56f6mm72l2fuj78gc41cshcc19nmb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68kRs4hyBUUHjsSHT_sKn8Q7X2gelSBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291599818262-6o56f6mm72l2fuj78gc41cshcc19nmb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291599818262:android:55ec3d43dcdbeaab",
+        "android_client_info": {
+          "package_name": "com.example.waleed.friendschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291599818262-dvsfut8qesjep60q1qln08ja8roj60ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waleed.friendschat",
+            "certificate_hash": "d77171966741633c8b909cee4089a198111f6444"
+          }
+        },
+        {
+          "client_id": "291599818262-6o56f6mm72l2fuj78gc41cshcc19nmb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68kRs4hyBUUHjsSHT_sKn8Q7X2gelSBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291599818262-6o56f6mm72l2fuj78gc41cshcc19nmb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:orientation="vertical"
+android:gravity="center"
+android:background="@color/colorPrimaryDark"
+android:layout_height="match_parent"
+android:padding="16dp"
+tools:context="com.example.waleed.firebaseauthentication.SettingsActivity">
+<ImageView
+    android:layout_width="@dimen/logo_w_h"
+    android:layout_height="@dimen/logo_w_h"
+    android:src="@drawable/firebase_logo"
+    android:layout_marginBottom="20dp" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@color/white"
+    android:text="Change your Email in very Easy way!" />
+
+<android.support.design.widget.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter old Email"
+        android:layout_marginBottom="10dip"
+        android:textColor="@color/white" />
+</android.support.design.widget.TextInputLayout>
+
+<android.support.design.widget.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:textColor="@color/white"
+        android:hint="Enter new Email" />
+</android.support.design.widget.TextInputLayout>
+
+<Button
+    android:id="@+id/button"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="@color/colorAccent"
+    android:text="Change" />
+
+<ProgressBar
+    android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:layout_gravity="center|bottom" />
+</LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

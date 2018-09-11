@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewPract</string>
+    <string name="menu_item">Refresh</string>
+</resources>

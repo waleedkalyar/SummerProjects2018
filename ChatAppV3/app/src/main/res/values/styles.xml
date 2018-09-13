@@ -24,4 +24,8 @@
         <item name="android:textColor">@color/colorTitle</item>
 
     </style>
+
+    <style name="BaseAppTheme" parent="android:Theme.Material">
+        
+    </style>
 </resources>
